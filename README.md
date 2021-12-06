@@ -35,3 +35,6 @@ tar -xf android-studio-2020.3.1.25-linux.tar.gz -C /home/aj
 11. Once that is installed run ``` flutter doctor --android-licenses ```
 
 12. Lastly run ``` flutter doctor ``` to check.
+
+
+[Flutter cheatsheet #1](https://howtodothisinflutter.com/)
